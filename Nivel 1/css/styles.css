@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+/* MENU */
+.navbar{
+    z-index:999999;
+    
+}
+
+.nav-item{
+    margin:15px;
+}
+
+.btn{
+    margin: 0 15px;
+    
+}
+
+
+
+/* CAROUSEL */
+.carousel-inner img{
+    width: 100%;
+   
+}
+
+
+
+/* MEDIA QUERY */
+@media (max-width: 575.98px) { 
+    .btn {
+        font-size: 10px;
+        margin: 0; 
+        
+    }
+
+    .navbar-toggler {
+        font-size: 13px;
+        
+    }
+ }
+
+
+
+
+    
+
